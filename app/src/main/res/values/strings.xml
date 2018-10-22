@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MusicalStructure</string>
+    <string name="shop">Shop</string>
+    <string name="now_playing">Now playing</string>
+    <string name="artists">Artists</string>
+    <string name="genres">Genres</string>
+    <string name="nowPlaying">Now Playing</string>
+    <string name="bach">J. S. Bach</string>
+    <string name="moll">H-moll</string>
+    <string name="beatles">The Beatles</string>
+</resources>

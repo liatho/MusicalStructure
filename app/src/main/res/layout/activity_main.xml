@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.lia.musicalstructure.MainActivity">
+
+    <TextView
+        android:id="@+id/genres"
+        android:background="#00ACC1"
+        android:text="@string/genres"
+        style="@style/mainActivityStyle" />
+
+    <TextView
+        android:id="@+id/artists"
+        android:text="@string/artists"
+        style="@style/mainActivityArtists" />
+
+    <TextView
+        android:id="@+id/shop"
+        android:text="@string/shop"
+        style="@style/mainActivityShop" />
+
+    <TextView
+        android:id="@+id/nowPlaying"
+        android:text="@string/nowPlaying"
+        style="@style/mainActivityNow" />
+</LinearLayout>
+
+
